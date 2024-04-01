@@ -1,7 +1,7 @@
 # Bank-Loan-Default-Prediction-using-R-Programming
 Built R programming powered model with 86% accuracy leveraging diverse prediction models on a comprehensive dataset to assess loan default likelihood. Interpreted model results and identified key business correlations to formulate a strategy aimed at mitigating risk of loan default for financial institutions and help save cost.
 
-[Click here to view detailed report](main/Bank Loan Default Prediction_Report.pdf)
+Click here to view detailed report : [Bank Loan Default Prediction_Report.pdf](main/Bank%20Loan%20Default%20Prediction_Report.pdf)
 
 ![image](https://github.com/ParishaD6/Bank-Loan-Default-Prediction-using-R-Programming/assets/161776677/76c79a3a-f0f7-4f4d-9649-f76183933630)
 ![image](https://github.com/ParishaD6/Bank-Loan-Default-Prediction-using-R-Programming/assets/161776677/f9ed0f9f-4906-4b38-9726-dfb759ed635c)
